@@ -1,0 +1,1 @@
+select * from sys.master_files where database_id = DB_ID(N'tempdb');
